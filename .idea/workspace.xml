@@ -18,7 +18,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99bc7c49-5c1f-4ff9-9d69-6780f8738983" name="Default" comment="">
+    <list default="true" id="99bc7c49-5c1f-4ff9-9d69-6780f8738983" name="Default" comment="---">
       <change afterPath="$PROJECT_DIR$/app" afterDir="true" />
       <change afterPath="$PROJECT_DIR$/app/build" afterDir="true" />
       <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
@@ -713,8 +713,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="122" selection-start-line="122" selection-end-line="122" />
+            <state relative-caret-position="35">
+              <caret line="125" column="25" lean-forward="true" selection-start-line="125" selection-start-column="25" selection-end-line="125" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -969,7 +969,7 @@
     <property name="android.sdk.path" value="$USER_HOME$/Documents/AndroidWork/sdk" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1528277898049" />
     <property name="device.picker.selection" value="GB8ZA8W4AA" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DecathlonComment" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Dependencies" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -1266,7 +1266,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.46310833" visible="true" weight="0.2246596" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.46310833" visible="true" weight="0.2246596" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Captures" order="3" side_tool="true" weight="0.24959612" />
@@ -1286,8 +1286,8 @@
       <window_info anchor="bottom" id="SVN Repositories" order="8" weight="0.50392467" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5015129" side_tool="true" weight="0.48381603" />
       <window_info anchor="bottom" id="Logcat" order="10" sideWeight="0.49919224" weight="0.11413969" />
-      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32764506" />
-      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.051107325" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="11" visible="true" weight="0.7308348" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.49403748" />
       <window_info anchor="bottom" id="Build" order="13" sideWeight="0.49848714" weight="0.70017034" />
       <window_info anchor="bottom" id="Android Monitor" order="14" sideWeight="0.48703402" weight="0.59385663" />
       <window_info anchor="bottom" id="Gradle Console" order="15" sideWeight="0.50342464" side_tool="true" weight="0.32605305" />
@@ -1758,8 +1758,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="122" selection-start-line="122" selection-end-line="122" />
+        <state relative-caret-position="35">
+          <caret line="125" column="25" lean-forward="true" selection-start-line="125" selection-start-column="25" selection-end-line="125" selection-end-column="25" />
         </state>
       </provider>
     </entry>
