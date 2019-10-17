@@ -116,7 +116,12 @@ public class MainActivity extends Activity {
     @Override
     protected void onDestroy() {
         super.onDestroy();
-        unbindService(serviceConnection);
+        if(serviceConnection!=null){
+            try {
+                unbindService(serviceConnection);
+            }catch (Exception e){
+            }
+        }
         if (isOk) {
             httpd.stop();
             EventRegister.unregister();

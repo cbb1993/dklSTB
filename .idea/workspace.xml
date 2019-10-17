@@ -680,11 +680,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/values/common_strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31">
+            <state relative-caret-position="108">
               <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -701,34 +710,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
+            <state relative-caret-position="354">
+              <caret line="122" selection-start-line="122" selection-end-line="122" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/http/NanoHTTPD.java">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="352" column="33" selection-start-line="352" selection-start-column="33" selection-end-line="352" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/event/EventComments.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="83" column="43" selection-start-line="83" selection-start-column="43" selection-end-line="83" selection-end-column="43" />
-              <folding>
-                <element signature="e#1322#1323#0" expanded="true" />
-                <element signature="e#1354#1355#0" expanded="true" />
-                <element signature="e#4250#4269#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="243">
+              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -748,8 +743,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="744">
-              <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+            <state relative-caret-position="243">
+              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -834,9 +829,9 @@
       <find>startCountdown</find>
       <find>ModelComment</find>
       <find>18</find>
-      <find>db</find>
       <find>gethttp</find>
       <find>13:18</find>
+      <find>db</find>
     </findStrings>
     <replaceStrings>
       <replace>25sp</replace>
@@ -898,9 +893,6 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/http/MyNanoHTTPD.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/SetUpActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/SetUpActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/MainActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/MainActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/http/MyNanoHTTPD.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/event/EventComments.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/model/ModelComment.java" />
@@ -910,11 +902,15 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/service/ClientService.java" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/common_strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/MainActivity.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+    <option name="x" value="58" />
+    <option name="y" value="-15" />
     <option name="width" value="1377" />
     <option name="height" value="735" />
   </component>
@@ -934,6 +930,17 @@
             <path>
               <item name="DecathlonSTB" type="b2602c69:ProjectViewProjectNode" />
               <item name="DecathlonSTB" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="DecathlonSTB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DecathlonSTB" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="DecathlonSTB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DecathlonSTB" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1257,8 +1264,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.46310833" visible="true" weight="0.31467474" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.46310833" visible="true" weight="0.2246596" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Captures" order="3" side_tool="true" weight="0.24959612" />
@@ -1279,7 +1287,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5015129" side_tool="true" weight="0.48381603" />
       <window_info anchor="bottom" id="Logcat" order="10" sideWeight="0.49919224" weight="0.11413969" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32764506" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.77512777" />
+      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.051107325" />
       <window_info anchor="bottom" id="Build" order="13" sideWeight="0.49848714" weight="0.70017034" />
       <window_info anchor="bottom" id="Android Monitor" order="14" sideWeight="0.48703402" weight="0.59385663" />
       <window_info anchor="bottom" id="Gradle Console" order="15" sideWeight="0.50342464" side_tool="true" weight="0.32605305" />
@@ -1366,24 +1374,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/event/EventNewYear.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-          <folding>
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.vilyever/AndroidSocketClient/3.0.3/dce8214028d36f2e3dbadc53f2b47c376dfba842/AndroidSocketClient-3.0.3-sources.jar!/com/vilyever/socketclient/SocketClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
@@ -1677,13 +1667,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/netty/app/ClientLogin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -1732,13 +1715,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="744">
-          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/SetUpActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
@@ -1754,8 +1730,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/common_strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
+        <state relative-caret-position="108">
           <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="122" selection-start-line="122" selection-end-line="122" />
         </state>
       </provider>
     </entry>
