@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="welcome">欢迎进入DECATHLON客户满意度调查(Server-</string>
+    <string name="set_vision">DECATHLON客户满意度调查(Server-</string>
+
+
+    <string name="network_error">连接异常，请检查网络！</string>
+    <string name="whole_year_ytd">全年</string>
+    <string name="whole_year_comments">全年评价数</string>
+    <string name="today_ytd">今天</string>
+    <string name="today_comments">当天评价数</string>
+    <string name="input_password">进入设置请输入密码</string>
+    <string name="error_password">提示：密码错误</string>
+    <string name="confim">确认</string>
+    <string name="cancel">取消</string>
+
+
+    <string name="sys_setting">系统设置</string>
+    <string name="sync_data">同步统计数据</string>
+    <string name="update_stores">更新门店数据</string>
+    <string name="set_region">大区</string>
+    <string name="set_city">城市</string>
+    <string name="set_store">门店</string>
+    <string name="setting_save">保存设置</string>
+    <string name="sync_ing">请稍后，正在同步统计数据...</string>
+    <string name="sync_done">同步统计数据完毕</string>
+    <string name="sync_failed">同步统计数据失败</string>
+    <string name="read_stores_error">读取门店数据异常</string>
+    <string name="remind">提示</string>
+    <string name="stores_updating">请稍后，正在更新门店数据...</string>
+    <string name="stores_update_failed">门店数据更新失败</string>
+    <string name="stores_update_success">门店数据更新完毕</string>
+    <string name="choose_regoin_please">请选择大区</string>
+    <string name="choose_city_please">请选择城市</string>
+    <string name="choose_store_please">请选择门店</string>
+    <string name="choose_store_error">门店编号长度不能小于2</string>
+    <string name="input_http_address_please">请输入HTTP地址</string>
+    <string name="input_watch_address_please">请配置好Watch的ip地址</string>
+
+
+</resources>

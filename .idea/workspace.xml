@@ -1,0 +1,1763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="tv_1080p" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99bc7c49-5c1f-4ff9-9d69-6780f8738983" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/app" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/assets" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/assets/shaders" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/res" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/res/resValues" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/res/resValues/androidTest" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/res/rs" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/res/rs/androidTest" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/aidl" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/aidl/androidTest" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/apt" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/androidTest" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/r" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/r/androidTest" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/rs" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/rs/androidTest" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/assets" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/androidTest" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/classes" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/dependency-cache" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/R.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/aidl" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/annotations.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/assets" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jni" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/libs" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/proguard.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/public.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/res" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/res/values" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/res/values/values.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/aidl" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/aidl/android" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/aidl/android/support" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/aidl/android/support/v4" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/aidl/android/support/v4/os" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/aidl/android/support/v4/os/ResultReceiver.aidl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/annotations.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/assets" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jni" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/libs" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/res" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-core-ui" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/aidl" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/annotations.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/assets" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jni" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/libs" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/proguard.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/res" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-safeguard" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/jniLibs" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/manifest" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/manifest/androidTest" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/manifests" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/instant-run" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/androidTest" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/rs" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/rs/androidTest" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/shaders" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/symbols" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/symbols/androidTest" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/transforms" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/stripDebugSymbol" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/outputs" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/outputs/apk" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/outputs/logs" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/build/tmp" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/libs" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/libs/fastjson-1.1.40.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/lint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/main" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/stores.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/AppAplicaiton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/ErrorActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/SetUpActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/ShowActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/custom" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/custom/InputWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/custom/LockerView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/custom/MySpinner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/custom/NoPaddingTextView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/custom/NormalLockLayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/custom/ScrollLockLayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/custom/Star.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/custom/TestLockView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/custom/recycle" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/custom/recycle/AutoRecyclerView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/custom/recycle/RecyclerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/custom/recycle/ScrollSpeedLinearLayoutManger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/db" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/db/DBManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/db/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/event" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/event/BootBroadcastReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/event/EventComments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/event/EventNewDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/event/EventNewYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/event/EventRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/event/EventScroll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/event/EventWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/event/IEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/event/ScreenBroadcastReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/event/TenMinutesEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/http" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/http/MyNanoHTTPD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/http/NanoHTTPD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/http/OnHttpListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/http/callback" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/http/callback/HttpCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/http/callback/ResponseCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/model" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/model/BaseData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/model/BaseListData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/model/BasePageData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/model/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/model/DataComment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/model/GankModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/model/ModelComment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/model/PageModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/model/StoreData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/util" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/util/AppJsonFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/util/AppUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/util/BaseListModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/util/BaseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/util/ChannelMannager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/util/ChannelUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/util/CommentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/util/Convert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/util/DateFormatUitl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/util/GsonUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/util/MyCountDownTimer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/util/ScreenLockUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/util/SharedPreferencesUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/util/StoreAmout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/util/StrUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/util/SystemUi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/cr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/decathlon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/star_empty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/star_full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ur.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/veryhappy_b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/vs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/star_empty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/star_full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-sw1080dp" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-sw1080dp/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-sw1080dp/star_empty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-sw1080dp/star_full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/decathlon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/icon_close_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/decathlon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-zh-rHK-hdpi" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-zh-rHK-hdpi/ur.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-zh-rHK-hdpi/veryhappy_b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-zh-rHK-hdpi/vs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-zh-rTW-hdpi" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-zh-rTW-hdpi/ur.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-zh-rTW-hdpi/veryhappy_b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-zh-rTW-hdpi/vs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/btn.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/corner_black.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/gradient_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/press_stroke_bray.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/sold_blue_stroke_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/sold_white_stroke_blue.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/sold_yellow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/stroke_bray.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_error.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_comment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/keyboard.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_input.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/maintext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/setup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/text_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-sw1080dp" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-sw1080dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-zh-rHK" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-zh-rHK/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-zh-rTW" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-zh-rTW/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/common_strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/ids.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/normal_hk" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/normal_hk/assets" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/normal_hk/assets/stores.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/normal_hk/res" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/normal_hk/res/values-zh-rHK" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/normal_hk/res/values-zh-rHK/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/normal_hk/res/values-zh-rTW" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/app/src/normal_hk/res/values-zh-rTW/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/import-summary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pctang.DecathlonSTB.keystore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/AppAplicaiton.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/AppAplicaiton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/BuildConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/BuildConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/MainActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/MainActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/MainActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/MainActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/MainActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/SetUpActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/SetUpActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/SetUpActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/SetUpActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/SetUpActivity$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/SetUpActivity$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/SetUpActivity$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/SetUpActivity$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/SetUpActivity$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/SetUpActivity$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/SetUpActivity$6$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/SetUpActivity$6$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/SetUpActivity$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/SetUpActivity$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/SetUpActivity$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/SetUpActivity$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/SetUpActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/SetUpActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/ShowActiviyt$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/ShowActiviyt$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/ShowActiviyt$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/ShowActiviyt$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/ShowActiviyt.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/ShowActiviyt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/TestActivity$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/TestActivity$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/TestActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/TestActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/TestActivity$2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/TestActivity$2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/TestActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/TestActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/TestActivity$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/TestActivity$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/TestActivity$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/TestActivity$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/TestActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/TestActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/LockLayer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/LockLayer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/LockLayer$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/LockLayer$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/LockLayer$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/LockLayer$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/LockLayer$LockListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/LockLayer$LockListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/LockLayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/LockLayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/MySpinner$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/MySpinner$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/MySpinner$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/MySpinner$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/MySpinner$OnChooseListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/MySpinner$OnChooseListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/MySpinner.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/MySpinner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/Star$OnStarListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/Star$OnStarListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/Star.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/Star.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/recycle/AutoRecyclerView$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/recycle/AutoRecyclerView$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/recycle/AutoRecyclerView.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/recycle/AutoRecyclerView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/recycle/RecyclerAdapter$ChildViewHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/recycle/RecyclerAdapter$ChildViewHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/recycle/RecyclerAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/recycle/RecyclerAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/recycle/ScrollSpeedLinearLayoutManger$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/recycle/ScrollSpeedLinearLayoutManger$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/recycle/ScrollSpeedLinearLayoutManger.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/custom/recycle/ScrollSpeedLinearLayoutManger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/DBManager$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/DBManager$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/DBManager$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/DBManager$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/DBManager$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/DBManager$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/DBManager$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/DBManager$12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/DBManager$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/DBManager$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/DBManager$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/DBManager$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/DBManager$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/DBManager$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/DBManager$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/DBManager$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/DBManager$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/DBManager$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/DBManager$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/DBManager$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/DBManager$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/DBManager$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/DBManager$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/DBManager$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/DBManager$OnQueryListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/DBManager$OnQueryListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/DBManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/DBManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/DBManagerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/DBManagerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/Database.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/db/Database.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/Http$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/Http$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/Http$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/Http$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/Http$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/Http$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/Http$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/Http$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/Http$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/Http$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/Http$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/Http$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/Http$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/Http$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/Http$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/Http$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/Http$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/Http$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/Http$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/Http$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/Http$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/Http$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/Http.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/Http.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$AsyncRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$AsyncRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$Cookie.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$Cookie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$CookieHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$CookieHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$DefaultAsyncRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$DefaultAsyncRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$DefaultTempFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$DefaultTempFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$DefaultTempFileManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$DefaultTempFileManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$DefaultTempFileManagerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$DefaultTempFileManagerFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$HTTPSession.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$HTTPSession.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$IHTTPSession.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$IHTTPSession.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$Method.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$Method.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$Response$Status.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$Response$Status.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$Response.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$Response.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$ResponseException.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$ResponseException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$TempFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$TempFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$TempFileManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$TempFileManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$TempFileManagerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD$TempFileManagerFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/NanoHTTPD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/OnHttpListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/http/OnHttpListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/model/Comment.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/model/Comment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/model/DataComment.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/model/DataComment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/model/ModelComment.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/model/ModelComment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/model/StoreData$City$Store.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/model/StoreData$City$Store.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/model/StoreData$City.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/model/StoreData$City.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/model/StoreData.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/model/StoreData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/receiver/BootBroadcastReceiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/receiver/BootBroadcastReceiver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/receiver/ScreenBroadcastReceiver$ScreenLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/receiver/ScreenBroadcastReceiver$ScreenLock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/receiver/ScreenBroadcastReceiver$SimleScreenLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/receiver/ScreenBroadcastReceiver$SimleScreenLock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/receiver/ScreenBroadcastReceiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/receiver/ScreenBroadcastReceiver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/server/STBService$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/server/STBService$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/server/STBService$2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/server/STBService$2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/server/STBService$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/server/STBService$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/server/STBService$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/server/STBService$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/server/STBService$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/server/STBService$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/server/STBService$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/server/STBService$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/server/STBService$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/server/STBService$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/server/STBService$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/server/STBService$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/server/STBService$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/server/STBService$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/server/STBService$CountListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/server/STBService$CountListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/server/STBService$MBinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/server/STBService$MBinder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/server/STBService$MyNanoHTTPD.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/server/STBService$MyNanoHTTPD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/server/STBService.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/server/STBService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/util/AppJsonFileReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/util/AppJsonFileReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/util/CommentManager$NotifyChange.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/util/CommentManager$NotifyChange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/util/CommentManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/util/CommentManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/util/DateFormatUitl.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/util/DateFormatUitl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/util/KeyboardUtil$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/util/KeyboardUtil$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/util/KeyboardUtil$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/util/KeyboardUtil$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/util/KeyboardUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/util/KeyboardUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/util/MyCountDownTimer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/util/MyCountDownTimer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/util/MyCountDownTimer$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/util/MyCountDownTimer$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/util/MyCountDownTimer.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/util/MyCountDownTimer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/util/ScreenLockUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/util/ScreenLockUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/util/SharedPreferencesUtil$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/util/SharedPreferencesUtil$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/util/SharedPreferencesUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/huanhong/decathlonstb/util/SharedPreferencesUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/android/support/v7/recyclerview/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/android/support/v7/recyclerview/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/android/support/v7/recyclerview/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/android/support/v7/recyclerview/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/android/support/v7/recyclerview/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/android/support/v7/recyclerview/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/android/support/v7/recyclerview/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/android/support/v7/recyclerview/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/android/support/v7/recyclerview/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/android/support/v7/recyclerview/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/AppAplicaiton.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/AppAplicaiton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/BuildConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/BuildConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/MainActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/MainActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/MainActivity$ScreenBroadcastReceiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/MainActivity$ScreenBroadcastReceiver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/MainActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/R$dimen.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/R$dimen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/R$styleable.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/R$styleable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/SetUpActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/SetUpActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/SetUpActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/SetUpActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/SetUpActivity$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/SetUpActivity$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/SetUpActivity$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/SetUpActivity$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/SetUpActivity$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/SetUpActivity$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/SetUpActivity$6$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/SetUpActivity$6$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/SetUpActivity$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/SetUpActivity$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/SetUpActivity$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/SetUpActivity$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/SetUpActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/SetUpActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/ShowActiviyt$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/ShowActiviyt$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/ShowActiviyt$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/ShowActiviyt$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/ShowActiviyt.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/ShowActiviyt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/TestActivity$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/TestActivity$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/TestActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/TestActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/TestActivity$2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/TestActivity$2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/TestActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/TestActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/TestActivity$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/TestActivity$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/TestActivity$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/TestActivity$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/TestActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/TestActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/LockLayer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/LockLayer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/LockLayer$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/LockLayer$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/LockLayer$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/LockLayer$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/LockLayer$LockListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/LockLayer$LockListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/LockLayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/LockLayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/MySpinner$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/MySpinner$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/MySpinner$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/MySpinner$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/MySpinner$OnChooseListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/MySpinner$OnChooseListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/MySpinner.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/MySpinner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/Star$OnStarListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/Star$OnStarListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/Star.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/Star.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/recycle/AtuoRecyclerView$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/recycle/AtuoRecyclerView$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/recycle/AtuoRecyclerView.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/recycle/AtuoRecyclerView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/recycle/RecyclerAdapter$ChildViewHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/recycle/RecyclerAdapter$ChildViewHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/recycle/RecyclerAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/recycle/RecyclerAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/recycle/ScrollSpeedLinearLayoutManger$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/recycle/ScrollSpeedLinearLayoutManger$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/recycle/ScrollSpeedLinearLayoutManger.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/custom/recycle/ScrollSpeedLinearLayoutManger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/DBManager$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/DBManager$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/DBManager$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/DBManager$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/DBManager$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/DBManager$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/DBManager$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/DBManager$12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/DBManager$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/DBManager$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/DBManager$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/DBManager$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/DBManager$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/DBManager$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/DBManager$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/DBManager$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/DBManager$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/DBManager$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/DBManager$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/DBManager$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/DBManager$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/DBManager$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/DBManager$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/DBManager$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/DBManager$OnQueryListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/DBManager$OnQueryListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/DBManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/DBManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/DBManagerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/DBManagerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/Database.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/db/Database.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/Http$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/Http$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/Http$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/Http$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/Http$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/Http$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/Http$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/Http$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/Http$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/Http$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/Http$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/Http$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/Http$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/Http$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/Http$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/Http$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/Http$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/Http$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/Http$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/Http$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/Http$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/Http$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/Http.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/Http.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$AsyncRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$AsyncRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$Cookie.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$Cookie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$CookieHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$CookieHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$DefaultAsyncRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$DefaultAsyncRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$DefaultTempFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$DefaultTempFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$DefaultTempFileManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$DefaultTempFileManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$DefaultTempFileManagerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$DefaultTempFileManagerFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$HTTPSession.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$HTTPSession.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$IHTTPSession.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$IHTTPSession.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$Method.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$Method.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$Response$Status.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$Response$Status.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$Response.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$Response.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$ResponseException.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$ResponseException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$TempFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$TempFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$TempFileManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$TempFileManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$TempFileManagerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD$TempFileManagerFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/NanoHTTPD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/OnHttpListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/http/OnHttpListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/model/Comment.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/model/Comment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/model/DataComment.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/model/DataComment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/model/ModelComment.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/model/ModelComment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/model/StoreData$City$Store.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/model/StoreData$City$Store.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/model/StoreData$City.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/model/StoreData$City.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/model/StoreData.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/model/StoreData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/receiver/BootBroadcastReceiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/receiver/BootBroadcastReceiver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/server/STBService$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/server/STBService$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/server/STBService$2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/server/STBService$2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/server/STBService$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/server/STBService$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/server/STBService$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/server/STBService$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/server/STBService$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/server/STBService$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/server/STBService$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/server/STBService$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/server/STBService$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/server/STBService$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/server/STBService$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/server/STBService$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/server/STBService$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/server/STBService$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/server/STBService$CountListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/server/STBService$CountListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/server/STBService$MBinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/server/STBService$MBinder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/server/STBService$MyNanoHTTPD.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/server/STBService$MyNanoHTTPD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/server/STBService.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/server/STBService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/util/AppJsonFileReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/util/AppJsonFileReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/util/CommentManager$NotifyChange.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/util/CommentManager$NotifyChange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/util/CommentManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/util/CommentManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/util/DateFormatUitl.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/util/DateFormatUitl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/util/KeyboardUtil$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/util/KeyboardUtil$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/util/KeyboardUtil$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/util/KeyboardUtil$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/util/KeyboardUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/util/KeyboardUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/util/MyCountDownTimer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/util/MyCountDownTimer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/util/MyCountDownTimer$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/util/MyCountDownTimer$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/util/MyCountDownTimer.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/util/MyCountDownTimer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/util/ScreenLockUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/util/ScreenLockUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/util/SharedPreferencesUtil$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/util/SharedPreferencesUtil$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/util/SharedPreferencesUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/huanhong/decathlonstb/util/SharedPreferencesUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/compileDebugAidl/dependency.store" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/compileDebugAidl/dependency.store" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/compileDebugAndroidTestAidl/dependency.store" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/compileDebugAndroidTestAidl/dependency.store" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/compileReleaseAidl/dependency.store" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/compileReleaseAidl/dependency.store" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/7fTETzjRE6g6wsdrMSBRHZWZS9I=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/7fTETzjRE6g6wsdrMSBRHZWZS9I=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/kxN+zPKhL24yJ_uJVkluZu3ll4Q=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/kxN+zPKhL24yJ_uJVkluZu3ll4Q=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageRelease/zip-cache/tR0w3NIZsi8+CIyuSO+Hf4Lt6O0=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageRelease/zip-cache/tR0w3NIZsi8+CIyuSO+Hf4Lt6O0=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageRelease/zip-cache/x4HWsrb7KQ7cb7Tvh9G2rvpqKm8=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageRelease/zip-cache/x4HWsrb7KQ7cb7Tvh9G2rvpqKm8=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.2.0_737a48a0119564cc93e8e18cd3cf450d57d4922e.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.2.0_737a48a0119564cc93e8e18cd3cf450d57d4922e.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_0feb6b69445a78487b964f5b54bead580e4049b8.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_0feb6b69445a78487b964f5b54bead580e4049b8.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_709dc6c8e05d4e90548ba90345c61ad5bb8634d8.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_709dc6c8e05d4e90548ba90345c61ad5bb8634d8.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_cef117b27d0ec16deda3d8b5bfe8c8f760ab012e.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_cef117b27d0ec16deda3d8b5bfe8c8f760ab012e.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/fastjson-1.1.40_9f592799e523c2123dff3ff40f2733152a7b1d5f.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/fastjson-1.1.40_9f592799e523c2123dff3ff40f2733152a7b1d5f.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/gson-2.6.2_c1b14a3bb35e8a443e7e910bf0011742535cae94.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/gson-2.6.2_c1b14a3bb35e8a443e7e910bf0011742535cae94.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_dec606a2fc4353b8e3e9764b185e985ac8755740.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_dec606a2fc4353b8e3e9764b185e985ac8755740.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/volly-1.0.11_61cabeefab821aaec02bb0bbbf358919b5e0b031.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/volly-1.0.11_61cabeefab821aaec02bb0bbbf358919b5e0b031.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-25.2.0_737a48a0119564cc93e8e18cd3cf450d57d4922e.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-25.2.0_737a48a0119564cc93e8e18cd3cf450d57d4922e.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.2.0_0feb6b69445a78487b964f5b54bead580e4049b8.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.2.0_0feb6b69445a78487b964f5b54bead580e4049b8.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-25.2.0_709dc6c8e05d4e90548ba90345c61ad5bb8634d8.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-25.2.0_709dc6c8e05d4e90548ba90345c61ad5bb8634d8.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/release/fastjson-1.1.40_9f592799e523c2123dff3ff40f2733152a7b1d5f.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/release/fastjson-1.1.40_9f592799e523c2123dff3ff40f2733152a7b1d5f.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/release/gson-2.6.2_c1b14a3bb35e8a443e7e910bf0011742535cae94.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/release/gson-2.6.2_c1b14a3bb35e8a443e7e910bf0011742535cae94.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/release/release_2e2ab8d260f280241db6bd4cde201a6f4b7eb51e.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/release/release_2e2ab8d260f280241db6bd4cde201a6f4b7eb51e.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/release/support-annotations-25.2.0_dec606a2fc4353b8e3e9764b185e985ac8755740.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/release/support-annotations-25.2.0_dec606a2fc4353b8e3e9764b185e985ac8755740.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/release/volly-1.0.11_61cabeefab821aaec02bb0bbbf358919b5e0b031.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/release/volly-1.0.11_61cabeefab821aaec02bb0bbbf358919b5e0b031.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/back.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/back.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/cr.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/cr.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/decathlon.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/decathlon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/image.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/play.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/play.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/star_empty.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/star_empty.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/star_full.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/star_full.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/ur.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/ur.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/veryhappy_b.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/veryhappy_b.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/vs.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi/vs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi/decathlon.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi/decathlon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi/icon_close_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi/icon_close_white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xxhdpi/decathlon.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xxhdpi/decathlon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-zh-rHK-hdpi/ur.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-zh-rHK-hdpi/ur.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-zh-rHK-hdpi/veryhappy_b.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-zh-rHK-hdpi/veryhappy_b.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-zh-rTW-hdpi/ur.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-zh-rTW-hdpi/ur.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-zh-rTW-hdpi/veryhappy_b.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-zh-rTW-hdpi/veryhappy_b.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/back.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/back.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/cr.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/cr.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/decathlon.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/decathlon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/image.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/play.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/play.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/star_empty.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/star_empty.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/star_full.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/star_full.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/ur.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/ur.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/veryhappy_b.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/veryhappy_b.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/vs.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/vs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xhdpi/decathlon.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xhdpi/decathlon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xhdpi/icon_close_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xhdpi/icon_close_white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xxhdpi/decathlon.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xxhdpi/decathlon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-zh-rHK-hdpi/ur.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-zh-rHK-hdpi/ur.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-zh-rHK-hdpi/veryhappy_b.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-zh-rHK-hdpi/veryhappy_b.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-zh-rTW-hdpi/ur.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-zh-rTW-hdpi/ur.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-zh-rTW-hdpi/veryhappy_b.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-zh-rTW-hdpi/veryhappy_b.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug-androidTest.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug-androidTest.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-release.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-release.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/release/jars/2/1f/main.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/release/jars/2/1f/main.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterDir="false" />
+    </list>
+    <ignored path="DecathlonSTB.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="build/" />
+    <ignored path="DecathlonSTB.iml" />
+    <ignored path="app/app.iml" />
+    <ignored mask="Mask:*iml" />
+    <ignored path="local.properties" />
+    <ignored path=".gradle/" />
+    <ignored path=".idea/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="DVLNU19307109661" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state />
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DecathlonSTB" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/SetUpActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="94" column="41" selection-start-line="94" selection-start-column="41" selection-end-line="94" selection-end-column="41" />
+              <folding>
+                <element signature="e#3408#3435#0" expanded="true" />
+                <element signature="method#initSelect#0;class#SetUpActivity#0" />
+                <element signature="e#12348#12382#0" expanded="true" />
+                <element signature="e#12796#12831#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/common_strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="31">
+              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/netty/app/ClientLogin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/http/NanoHTTPD.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="352" column="33" selection-start-line="352" selection-start-column="33" selection-end-line="352" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/event/EventComments.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="83" column="43" selection-start-line="83" selection-start-column="43" selection-end-line="83" selection-end-column="43" />
+              <folding>
+                <element signature="e#1322#1323#0" expanded="true" />
+                <element signature="e#1354#1355#0" expanded="true" />
+                <element signature="e#4250#4269#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/service/ClientService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="744">
+              <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/db/DBManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="136" column="26" selection-start-line="136" selection-start-column="18" selection-end-line="136" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2643#2644#0" expanded="true" />
+                <element signature="e#2700#2701#0" expanded="true" />
+                <element signature="e#4084#4085#0" expanded="true" />
+                <element signature="e#4132#4133#0" expanded="true" />
+                <element signature="e#4166#4167#0" expanded="true" />
+                <element signature="e#4228#4229#0" expanded="true" />
+                <element signature="e#4161#4162#0" expanded="true" />
+                <element signature="e#4206#4207#0" expanded="true" />
+                <element signature="e#4237#4238#0" expanded="true" />
+                <element signature="e#4284#4285#0" expanded="true" />
+                <element signature="e#4315#4316#0" expanded="true" />
+                <element signature="e#4362#4363#0" expanded="true" />
+                <element signature="e#4396#4397#0" expanded="true" />
+                <element signature="e#4443#4444#0" expanded="true" />
+                <element signature="e#12044#12045#0" expanded="true" />
+                <element signature="e#12089#12090#0" expanded="true" />
+                <element signature="e#12236#12237#0" expanded="true" />
+                <element signature="e#12279#12280#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/model/ModelComment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="34" column="45" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+        <option value="valueResourceFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>onResponse</find>
+      <find>发送成功</find>
+      <find>心跳</find>
+      <find>protocol转换失败</find>
+      <find>15</find>
+      <find>DELAY_CONNECT</find>
+      <find>errorCout</find>
+      <find>mHeartBeat</find>
+      <find>NettyClientHandler</find>
+      <find>心跳中断</find>
+      <find>initChannel</find>
+      <find>initFaile</find>
+      <find>initWait</find>
+      <find>stores.txt</find>
+      <find>焕鸿</find>
+      <find>update_stores</find>
+      <find>门店</find>
+      <find>更新门店数据</find>
+      <find>测试</find>
+      <find>test</find>
+      <find>setup_update_stores</find>
+      <find>OnResponseListener</find>
+      <find>,member_id VARCHAR</find>
+      <find>mac</find>
+      <find>startCountdown</find>
+      <find>ModelComment</find>
+      <find>18</find>
+      <find>db</find>
+      <find>gethttp</find>
+      <find>13:18</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>25sp</replace>
+      <replace>20sp</replace>
+      <replace>match_parent</replace>
+      <replace>wrap_content</replace>
+      <replace>hhmm</replace>
+      <replace>@drawable/btn</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/pctang.DecathlonSTB.keystore" />
+    <option name="KEY_ALIAS" value="decathlonstb" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/util/CommentManager.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/custom/ScrollLockLayer.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/setup.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/custom/MySpinner.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/setup.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/custom/MySpinner.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/http/NanoHTTPD.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/custom/NormalLockLayer.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/util/NetworkUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/custom/InputWindow.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/util/DateFormatUitl.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/custom/ScrollLockLayer.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/layout_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/layout_test.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/custom/TestLockView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/util/ChannelMannager.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/http/SocketClient.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/http/MySocketClient.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/netty/INettyClient.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/util/ThreadUtils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/netty/app/ApiProtocol.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/AppAplicaiton.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/netty/app/ApiHandler.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/AppAplicaiton.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/netty/NettyClient.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/netty/app/ApiConstans.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/netty/NettyClientHandler.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/netty/app/ClientLogin.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/db/Database.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/SetUpActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/SetUpActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/netty/app/ApiClient.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/http/MyNanoHTTPD.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/http/MyNanoHTTPD.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/SetUpActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/SetUpActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/http/MyNanoHTTPD.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/event/EventComments.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/model/ModelComment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/SetUpActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/db/DBManager.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/db/DBManager.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/service/ClientService.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/common_strings.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="1377" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DecathlonSTB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DecathlonSTB" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$/../../apk/DecathlonSTB2.8.0.2.apk" />
+    <property name="DEBUGGABLE_DEVICE" value="rk3368_p9-GB8ZA8W4AA" />
+    <property name="DEBUGGABLE_PROCESS" value="com.huanhong.decathlonstb" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="ExportApk.ApkPath" value="C:\work\android-project\hh" />
+    <property name="ExportApk.BuildType" value="release" />
+    <property name="ExportApk.BuildVariants" value="normalRelease&#10;normal_hkRelease&#10;scrollRelease" />
+    <property name="ExportApk.Flavors" value="scroll" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="ScreenshotViewer.SavePath" value="C:" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/apple/Desktop/Projects/Decathlon/STB/StudioProjects/DecathlonSTB/app/src/main/res/layout/layout_main.xml" />
+    <property name="android.profiler.active" value="true" />
+    <property name="android.project.structure.last.selected" value="app" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/Documents/AndroidWork/sdk" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1528277898049" />
+    <property name="device.picker.selection" value="GB8ZA8W4AA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DecathlonComment" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Android Logcat" />
+    <property name="settings.editor.splitter.proportion" value="0.2430622" />
+    <property name="show.do.not.ask.upgrade.gradle.plugin" value="2.2.3" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\java\com\huanhong\decathlonstb\util" />
+      <recent name="C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\libs" />
+      <recent name="C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\java\com\huanhong\decathlonstb" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.huanhong.decathlonstb.netty.app" />
+      <recent name="com.huanhong.decathlonstb.service" />
+      <recent name="com.huanhong.decathlonstb.util" />
+      <recent name="com.huanhong.decathlonstb.http" />
+      <recent name="com.huanhong.decathlonstb.model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-hdpi" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sampled (Java)" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sampled (Java)" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sampled (Java)" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\12532\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99bc7c49-5c1f-4ff9-9d69-6780f8738983" name="Default" comment="" />
+      <created>1505799098544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1505799098544</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.46310833" visible="true" weight="0.31467474" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Captures" order="3" side_tool="true" weight="0.24959612" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.53061223" side_tool="true" weight="0.17043619" />
+      <window_info id="Build Variants" order="7" sideWeight="0.5368917" side_tool="true" weight="0.20516963" />
+      <window_info id="Resources Explorer" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.9063032" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49675852" weight="0.3270869" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49657536" weight="0.32913387" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32917318" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" weight="0.32761312" />
+      <window_info anchor="bottom" id="SVN Repositories" order="8" weight="0.50392467" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5015129" side_tool="true" weight="0.48381603" />
+      <window_info anchor="bottom" id="Logcat" order="10" sideWeight="0.49919224" weight="0.11413969" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32764506" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.77512777" />
+      <window_info anchor="bottom" id="Build" order="13" sideWeight="0.49848714" weight="0.70017034" />
+      <window_info anchor="bottom" id="Android Monitor" order="14" sideWeight="0.48703402" weight="0.59385663" />
+      <window_info anchor="bottom" id="Gradle Console" order="15" sideWeight="0.50342464" side_tool="true" weight="0.32605305" />
+      <window_info anchor="bottom" id="Statistic" order="16" />
+      <window_info anchor="bottom" id="Messages" order="17" sideWeight="0.49657536" weight="0.32598424" />
+      <window_info anchor="bottom" id="Flutter Performance" order="18" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Device File Explorer" order="3" sideWeight="0.50089765" side_tool="true" weight="0.4750378" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" weight="0.3298217" />
+      <window_info anchor="right" id="Android Model" order="6" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Preview" order="8" sideWeight="0.49910232" weight="0.3290469" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Flutter Inspector" order="10" />
+      <window_info anchor="right" id="Flutter Outline" order="11" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.46310833" visible="true" weight="0.16235864" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Captures" order="3" weight="0.24959612" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.53061223" side_tool="true" weight="0.17043619" />
+      <window_info id="Build Variants" order="7" sideWeight="0.5368917" side_tool="true" weight="0.20516963" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.44929796" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49675852" weight="0.328594" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49657536" weight="0.32913387" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32917318" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" weight="0.32761312" />
+      <window_info anchor="bottom" id="SVN Repositories" order="8" weight="0.50392467" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50342464" side_tool="true" weight="0.45211932" />
+      <window_info anchor="bottom" id="Logcat" order="10" weight="0.6125984" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32764506" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32761312" />
+      <window_info anchor="bottom" id="Build" order="13" weight="0.32913387" />
+      <window_info anchor="bottom" id="Android Monitor" order="14" sideWeight="0.48703402" weight="0.59385663" />
+      <window_info anchor="bottom" id="Gradle Console" order="15" sideWeight="0.50342464" side_tool="true" weight="0.32605305" />
+      <window_info anchor="bottom" id="Statistic" order="16" />
+      <window_info anchor="bottom" id="Messages" order="17" sideWeight="0.49657536" weight="0.32598424" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Device File Explorer" order="3" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" weight="0.3298217" />
+      <window_info anchor="right" id="Android Model" order="6" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Preview" order="8" weight="0.32956383" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>!store.equals(localStore)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>TextUtils.isEmpty(store)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>comment.verifyError(config.store)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/event/EventNewYear.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <folding>
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.vilyever/AndroidSocketClient/3.0.3/dce8214028d36f2e3dbadc53f2b47c376dfba842/AndroidSocketClient-3.0.3-sources.jar!/com/vilyever/socketclient/SocketClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="152" column="32" selection-start-line="152" selection-start-column="32" selection-end-line="152" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.vilyever/AndroidSocketClient/3.0.3/dce8214028d36f2e3dbadc53f2b47c376dfba842/AndroidSocketClient-3.0.3-sources.jar!/com/vilyever/socketclient/util/CharsetUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/http/MySocketClient.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/util/SpUtils.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/util/SharedPreferencesUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="40" column="46" lean-forward="true" selection-start-line="40" selection-start-column="46" selection-end-line="40" selection-end-column="46" />
+          <folding>
+            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#1055#1056#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/util/ThreadUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/ErrorActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/test.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="37" column="17" lean-forward="true" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/netty/app/ApiHandler.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/AppAplicaiton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/app/libs/netty-all-4.1.6.Final.jar!/io/netty/handler/timeout/IdleState.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/netty/FilterComment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/custom/MySpinner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2214">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/setup.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="62" column="48" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="48" />
+          <folding>
+            <element signature="e#909#929#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../android-sdk/sources/android-25/android/content/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="866" column="25" selection-start-line="866" selection-start-column="25" selection-end-line="866" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/stores.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="387" column="5" lean-forward="true" selection-start-line="387" selection-start-column="5" selection-end-line="387" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/ShowActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/custom/LockerView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/model/DataComment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/model/Comment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/custom/InputWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="20" column="48" lean-forward="true" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/custom/NormalLockLayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="98" column="18" lean-forward="true" selection-start-line="98" selection-start-column="18" selection-end-line="98" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/util/AppJsonFileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-511">
+          <caret line="67" column="59" lean-forward="true" selection-start-line="67" selection-start-column="59" selection-end-line="67" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/netty/app/ApiConstans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="49" lean-forward="true" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/netty/app/ApiMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/db/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+          <folding>
+            <element signature="e#745#746#0" expanded="true" />
+            <element signature="e#799#800#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/http/callback/HttpCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/http/callback/ResponseCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/http/OnHttpListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/netty/NettyClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4556">
+          <caret line="40" column="22" lean-forward="true" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/netty/NettyClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-411">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/netty/app/ApiClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="203" column="42" selection-start-line="203" selection-start-column="38" selection-end-line="203" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/netty/INettyClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/netty/app/ApiProtocol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="50" />
+          <folding>
+            <element signature="e#961#962#0" expanded="true" />
+            <element signature="e#990#991#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/event/IEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/http/MyNanoHTTPD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/http/NanoHTTPD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="352" column="33" selection-start-line="352" selection-start-column="33" selection-end-line="352" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/event/EventComments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="83" column="43" selection-start-line="83" selection-start-column="43" selection-end-line="83" selection-end-column="43" />
+          <folding>
+            <element signature="e#1322#1323#0" expanded="true" />
+            <element signature="e#1354#1355#0" expanded="true" />
+            <element signature="e#4250#4269#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/model/ModelComment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="34" column="45" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/netty/app/ClientLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/db/DBManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="136" column="26" selection-start-line="136" selection-start-column="18" selection-end-line="136" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2643#2644#0" expanded="true" />
+            <element signature="e#2700#2701#0" expanded="true" />
+            <element signature="e#4084#4085#0" expanded="true" />
+            <element signature="e#4132#4133#0" expanded="true" />
+            <element signature="e#4166#4167#0" expanded="true" />
+            <element signature="e#4228#4229#0" expanded="true" />
+            <element signature="e#4161#4162#0" expanded="true" />
+            <element signature="e#4206#4207#0" expanded="true" />
+            <element signature="e#4237#4238#0" expanded="true" />
+            <element signature="e#4284#4285#0" expanded="true" />
+            <element signature="e#4315#4316#0" expanded="true" />
+            <element signature="e#4362#4363#0" expanded="true" />
+            <element signature="e#4396#4397#0" expanded="true" />
+            <element signature="e#4443#4444#0" expanded="true" />
+            <element signature="e#12044#12045#0" expanded="true" />
+            <element signature="e#12089#12090#0" expanded="true" />
+            <element signature="e#12236#12237#0" expanded="true" />
+            <element signature="e#12279#12280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/service/ClientService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/huanhong/decathlonstb/SetUpActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="94" column="41" selection-start-line="94" selection-start-column="41" selection-end-line="94" selection-end-column="41" />
+          <folding>
+            <element signature="e#3408#3435#0" expanded="true" />
+            <element signature="method#initSelect#0;class#SetUpActivity#0" />
+            <element signature="e#12348#12382#0" expanded="true" />
+            <element signature="e#12796#12831#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/common_strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

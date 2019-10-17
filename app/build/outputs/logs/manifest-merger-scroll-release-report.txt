@@ -1,0 +1,282 @@
+-- Merging decision tree log ---
+meta-data#VERSION_CHANNEL
+INJECTED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:24:9-26:48
+	android:value
+		INJECTED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:26:13-45
+	android:name
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:25:13-43
+meta-data#URL
+INJECTED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:27:9-29:38
+	android:value
+		INJECTED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:29:13-35
+	android:name
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:28:13-31
+meta-data#SCROLL
+INJECTED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:30:9-32:41
+	android:value
+		INJECTED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:32:13-38
+	android:name
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:31:13-34
+meta-data#COMPATIBLE
+INJECTED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:34:9-36:45
+	android:value
+		INJECTED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:36:13-42
+	android:name
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:35:13-38
+manifest
+ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:2:1-64:12
+MERGED from [com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:17:1-46:12
+MERGED from [com.android.support:design:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\de65d05c49461f3f430d21b1999af751\design-25.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\ca405ce7df479764aa734c77fdd6f171\recyclerview-v7-25.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.lzy.net:okrx:1.0.2] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\a684ccd790eda22b98ead3f71d9f387a\okrx-1.0.2\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\bd472be5da47a654452b5ec77f5dc0ed\appcompat-v7-25.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:transition:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\81dd1efec60ddd22f18abcb5ecf9c6e6\transition-25.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\a99b3b7fcb58c1dfd9164580ee412b20\support-v4-25.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\5b105059c2e198a9b137da4cc2e7b826\support-fragment-25.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\e073f831e4bb146b84f98bac68d78c1c\support-core-ui-25.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\63bbc3cb833c21570b749478819dbcda\animated-vector-drawable-25.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\1ce96f487022bb6dc6c57342efe72ff6\support-vector-drawable-25.1.1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\f9addcbd47c49a6f3a9da6c2f394617f\support-media-compat-25.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\2d4310de87a9246da7200f23f2bdef18\support-core-utils-25.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\88b93cb9fc239eb5647a1308b22852e0\support-compat-25.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.lzy.net:okgo:3.0.2] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\06889af8a43f59b630f31425506226e1\okgo-3.0.2\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml
+		INJECTED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:2:1-64:12
+		INJECTED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:2:1-64:12
+		INJECTED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:6:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:7:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:8:22-65
+uses-permission#android.permission.INTERNET
+ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:9:5-67
+MERGED from [com.lzy.net:okgo:3.0.2] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\06889af8a43f59b630f31425506226e1\okgo-3.0.2\AndroidManifest.xml:26:5-67
+MERGED from [com.lzy.net:okgo:3.0.2] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\06889af8a43f59b630f31425506226e1\okgo-3.0.2\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:10:5-81
+MERGED from [com.lzy.net:okgo:3.0.2] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\06889af8a43f59b630f31425506226e1\okgo-3.0.2\AndroidManifest.xml:28:5-81
+MERGED from [com.lzy.net:okgo:3.0.2] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\06889af8a43f59b630f31425506226e1\okgo-3.0.2\AndroidManifest.xml:28:5-81
+	android:name
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:12:22-75
+uses-permission#android.permission.SYSTEM_DIALOG_WINDOW
+ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:14:22-72
+application
+ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:16:5-62:19
+MERGED from [com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:24:5-44:19
+MERGED from [com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:24:5-44:19
+MERGED from [com.android.support:design:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\de65d05c49461f3f430d21b1999af751\design-25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\de65d05c49461f3f430d21b1999af751\design-25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\bd472be5da47a654452b5ec77f5dc0ed\appcompat-v7-25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\bd472be5da47a654452b5ec77f5dc0ed\appcompat-v7-25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\81dd1efec60ddd22f18abcb5ecf9c6e6\transition-25.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\81dd1efec60ddd22f18abcb5ecf9c6e6\transition-25.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\a99b3b7fcb58c1dfd9164580ee412b20\support-v4-25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\a99b3b7fcb58c1dfd9164580ee412b20\support-v4-25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\5b105059c2e198a9b137da4cc2e7b826\support-fragment-25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\5b105059c2e198a9b137da4cc2e7b826\support-fragment-25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\e073f831e4bb146b84f98bac68d78c1c\support-core-ui-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\e073f831e4bb146b84f98bac68d78c1c\support-core-ui-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\63bbc3cb833c21570b749478819dbcda\animated-vector-drawable-25.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\63bbc3cb833c21570b749478819dbcda\animated-vector-drawable-25.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\1ce96f487022bb6dc6c57342efe72ff6\support-vector-drawable-25.1.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\1ce96f487022bb6dc6c57342efe72ff6\support-vector-drawable-25.1.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\f9addcbd47c49a6f3a9da6c2f394617f\support-media-compat-25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\f9addcbd47c49a6f3a9da6c2f394617f\support-media-compat-25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\2d4310de87a9246da7200f23f2bdef18\support-core-utils-25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\2d4310de87a9246da7200f23f2bdef18\support-core-utils-25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\88b93cb9fc239eb5647a1308b22852e0\support-compat-25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\88b93cb9fc239eb5647a1308b22852e0\support-compat-25.2.0\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:20:9-41
+	android:persistent
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:21:9-34
+	android:icon
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:22:9-62
+	android:name
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:17:9-38
+activity#com.huanhong.decathlonstb.MainActivity
+ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:38:9-48:20
+	android:screenOrientation
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:42:13-50
+	android:label
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:40:13-45
+	android:launchMode
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:39:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:43:13-47:29
+action#android.intent.action.MAIN
+ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:46:27-74
+activity#com.huanhong.decathlonstb.SetUpActivity
+ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:49:9-51:85
+	android:screenOrientation
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:51:13-50
+	android:launchMode
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:51:51-82
+	android:name
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:50:13-67
+activity#com.huanhong.decathlonstb.ErrorActivity
+ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:52:9-51
+	android:name
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:52:19-48
+receiver#com.huanhong.decathlonstb.event.BootBroadcastReceiver
+ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:54:9-58:20
+	android:name
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:54:19-87
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:55:13-57:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:56:17-79
+	android:name
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:56:25-76
+service#com.huanhong.decathlonstb.service.ClientService
+ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:60:9-58
+	android:name
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:60:18-55
+uses-sdk
+INJECTED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml
+INJECTED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml
+MERGED from [com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:design:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\de65d05c49461f3f430d21b1999af751\design-25.1.1\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\de65d05c49461f3f430d21b1999af751\design-25.1.1\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\ca405ce7df479764aa734c77fdd6f171\recyclerview-v7-25.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\ca405ce7df479764aa734c77fdd6f171\recyclerview-v7-25.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.lzy.net:okrx:1.0.2] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\a684ccd790eda22b98ead3f71d9f387a\okrx-1.0.2\AndroidManifest.xml:23:5-25:41
+MERGED from [com.lzy.net:okrx:1.0.2] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\a684ccd790eda22b98ead3f71d9f387a\okrx-1.0.2\AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\bd472be5da47a654452b5ec77f5dc0ed\appcompat-v7-25.1.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\bd472be5da47a654452b5ec77f5dc0ed\appcompat-v7-25.1.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\81dd1efec60ddd22f18abcb5ecf9c6e6\transition-25.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\81dd1efec60ddd22f18abcb5ecf9c6e6\transition-25.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\a99b3b7fcb58c1dfd9164580ee412b20\support-v4-25.1.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\a99b3b7fcb58c1dfd9164580ee412b20\support-v4-25.1.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\5b105059c2e198a9b137da4cc2e7b826\support-fragment-25.1.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\5b105059c2e198a9b137da4cc2e7b826\support-fragment-25.1.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\e073f831e4bb146b84f98bac68d78c1c\support-core-ui-25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\e073f831e4bb146b84f98bac68d78c1c\support-core-ui-25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\63bbc3cb833c21570b749478819dbcda\animated-vector-drawable-25.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\63bbc3cb833c21570b749478819dbcda\animated-vector-drawable-25.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\1ce96f487022bb6dc6c57342efe72ff6\support-vector-drawable-25.1.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\1ce96f487022bb6dc6c57342efe72ff6\support-vector-drawable-25.1.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\f9addcbd47c49a6f3a9da6c2f394617f\support-media-compat-25.1.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\f9addcbd47c49a6f3a9da6c2f394617f\support-media-compat-25.1.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\2d4310de87a9246da7200f23f2bdef18\support-core-utils-25.1.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\2d4310de87a9246da7200f23f2bdef18\support-core-utils-25.1.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\88b93cb9fc239eb5647a1308b22852e0\support-compat-25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\88b93cb9fc239eb5647a1308b22852e0\support-compat-25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.lzy.net:okgo:3.0.2] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\06889af8a43f59b630f31425506226e1\okgo-3.0.2\AndroidManifest.xml:22:5-24:41
+MERGED from [com.lzy.net:okgo:3.0.2] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\06889af8a43f59b630f31425506226e1\okgo-3.0.2\AndroidManifest.xml:22:5-24:41
+INJECTED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml
+INJECTED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.1] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\de65d05c49461f3f430d21b1999af751\design-25.1.1\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml
+		INJECTED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml
+		ADDED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml
+		INJECTED from C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml
+provider#com.readystatesoftware.chuck.internal.data.ChuckContentProvider
+ADDED from [com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:25:9-28:40
+	android:authorities
+		ADDED from [com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:27:13-66
+	android:exported
+		ADDED from [com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:26:13-91
+activity#com.readystatesoftware.chuck.internal.ui.MainActivity
+ADDED from [com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:30:9-35:50
+	android:label
+		ADDED from [com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:32:13-47
+	android:launchMode
+		ADDED from [com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:33:13-44
+	android:theme
+		ADDED from [com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:35:13-47
+	android:taskAffinity
+		ADDED from [com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:34:13-69
+	android:name
+		ADDED from [com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:31:13-81
+activity#com.readystatesoftware.chuck.internal.ui.TransactionActivity
+ADDED from [com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:36:9-39:50
+	android:parentActivityName
+		ADDED from [com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:38:13-95
+	android:theme
+		ADDED from [com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:39:13-47
+	android:name
+		ADDED from [com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:37:13-88
+service#com.readystatesoftware.chuck.internal.support.ClearTransactionsService
+ADDED from [com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:41:9-43:40
+	android:exported
+		ADDED from [com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from [com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:42:13-98
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.lzy.net:okgo:3.0.2] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\06889af8a43f59b630f31425506226e1\okgo-3.0.2\AndroidManifest.xml:27:5-80
+	android:name
+		ADDED from [com.lzy.net:okgo:3.0.2] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\06889af8a43f59b630f31425506226e1\okgo-3.0.2\AndroidManifest.xml:27:22-77
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from [com.lzy.net:okgo:3.0.2] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\06889af8a43f59b630f31425506226e1\okgo-3.0.2\AndroidManifest.xml:29:5-84
+	android:name
+		ADDED from [com.lzy.net:okgo:3.0.2] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\06889af8a43f59b630f31425506226e1\okgo-3.0.2\AndroidManifest.xml:29:22-81

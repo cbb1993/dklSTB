@@ -1,0 +1,28 @@
+﻿[
+    {
+      "zone_code": "X",
+      "country": null,
+      "zone": "香港",
+      "city": [
+        {
+          "city_id": 108,
+          "city_name": "香港(HongKong)",
+          "country": "zh",
+          "shop": [
+            {
+              "shop_no": 1618,
+              "shop_name": "旺角",
+              "country": "zh",
+              "zone": "X"
+            },
+            {
+              "shop_no": 1614,
+              "shop_name": "铜锣湾",
+              "country": "zh",
+              "zone": "X"
+            }
+          ]
+        }
+      ]
+    }
+  ]

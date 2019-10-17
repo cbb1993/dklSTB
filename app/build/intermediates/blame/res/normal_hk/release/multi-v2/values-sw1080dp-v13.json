@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\work\\android-project\\hh\\DecathlonSTB\\DecathlonSTB\\app\\build\\intermediates\\incremental\\mergeNormal_hkReleaseResources\\merged.dir\\values-sw1080dp-v13\\values-sw1080dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\work\\android-project\\hh\\DecathlonSTB\\DecathlonSTB\\app\\src\\main\\res\\values-sw1080dp\\dimens.xml",
+                    "from": {
+                        "startLines": "7,8,18,15,12,14,11,16,10,17,21,23,24,22,20,29,27,28,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "305,363,840,667,554,609,497,726,437,784,1003,1108,1165,1056,944,1394,1237,1315,895",
+                        "endColumns": "57,55,54,58,53,57,56,57,59,55,52,56,54,51,58,57,77,78,48",
+                        "endOffsets": "358,414,890,721,603,662,549,779,492,835,1051,1160,1215,1103,998,1447,1310,1389,939"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,113,169,224,283,337,395,452,510,570,626,679,736,791,843,902,960,1038,1117",
+                        "endColumns": "57,55,54,58,53,57,56,57,59,55,52,56,54,51,58,57,77,78,48",
+                        "endOffsets": "108,164,219,278,332,390,447,505,565,621,674,731,786,838,897,955,1033,1112,1161"
+                    }
+                }
+            ]
+        }
+    ]
+}

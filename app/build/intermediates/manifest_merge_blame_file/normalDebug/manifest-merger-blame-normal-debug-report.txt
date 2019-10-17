@@ -1,0 +1,173 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.huanhong.decathlonstb"
+4    android:versionCode="22"
+5    android:versionName="3.0.4" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="21" />
+9-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:5:5-79
+11-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+12-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:6:5-76
+12-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:6:22-73
+13    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+13-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:7:5-76
+13-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:7:22-73
+14    <uses-permission android:name="android.permission.WAKE_LOCK" />
+14-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:8:5-68
+14-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:8:22-65
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:9:5-67
+15-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:9:22-64
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:10:5-81
+16-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:10:22-78
+17    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+17-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:11:5-81
+17-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:11:22-78
+18    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+18-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:12:5-78
+18-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:12:22-75
+19    <uses-permission android:name="android.permission.SYSTEM_DIALOG_WINDOW" />
+19-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:13:5-79
+19-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:13:22-76
+20    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+20-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:14:5-75
+20-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:14:22-72
+21    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+21-->[com.lzy.net:okgo:3.0.2] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\06889af8a43f59b630f31425506226e1\okgo-3.0.2\AndroidManifest.xml:27:5-80
+21-->[com.lzy.net:okgo:3.0.2] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\06889af8a43f59b630f31425506226e1\okgo-3.0.2\AndroidManifest.xml:27:22-77
+22    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+22-->[com.lzy.net:okgo:3.0.2] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\06889af8a43f59b630f31425506226e1\okgo-3.0.2\AndroidManifest.xml:29:5-84
+22-->[com.lzy.net:okgo:3.0.2] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\06889af8a43f59b630f31425506226e1\okgo-3.0.2\AndroidManifest.xml:29:22-81
+23
+24    <application
+24-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:16:5-62:19
+25        android:name="com.huanhong.decathlonstb.AppAplicaiton"
+25-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:17:9-38
+26        android:allowBackup="true"
+26-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:18:9-35
+27        android:debuggable="true"
+28        android:icon="@drawable/decathlon"
+28-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:19:9-43
+29        android:label="@string/app_name"
+29-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:20:9-41
+30        android:persistent="true"
+30-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:21:9-34
+31        android:theme="@android:style/Theme.Black.NoTitleBar" >
+31-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:22:9-62
+32        <meta-data
+33            android:name="VERSION_CHANNEL"
+33-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:25:13-43
+34            android:value="normal" />
+34-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:26:13-45
+35        <meta-data
+36            android:name="URL"
+36-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:28:13-31
+37            android:value="http://tillreview.decathlon.com.cn:8091" />
+37-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:29:13-35
+38        <meta-data
+39            android:name="SCROLL"
+39-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:31:13-34
+40            android:value="no" />
+40-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:32:13-38
+41        <!-- 兼容版本的channel,多个channel以&隔开 -->
+42        <meta-data
+43            android:name="COMPATIBLE"
+43-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:35:13-38
+44            android:value="scroll" />
+44-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:36:13-42
+45
+46        <activity
+46-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:38:9-48:20
+47            android:name="com.huanhong.decathlonstb.MainActivity"
+47-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:39:13-66
+48            android:label="@string/app_name"
+48-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:40:13-45
+49            android:launchMode="singleTask"
+49-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:41:13-44
+50            android:screenOrientation="landscape" >
+50-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:42:13-50
+51            <intent-filter>
+51-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:43:13-47:29
+52                <action android:name="android.intent.action.MAIN" />
+52-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:44:17-69
+52-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:44:25-66
+53
+54                <category android:name="android.intent.category.LAUNCHER" />
+54-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:46:17-77
+54-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:46:27-74
+55            </intent-filter>
+56        </activity>
+57        <activity
+57-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:49:9-51:85
+58            android:name="com.huanhong.decathlonstb.SetUpActivity"
+58-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:50:13-67
+59            android:launchMode="singleTask"
+59-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:51:51-82
+60            android:screenOrientation="landscape" />
+60-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:51:13-50
+61        <activity android:name="com.huanhong.decathlonstb.ErrorActivity" />
+61-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:52:9-51
+61-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:52:19-48
+62
+63        <receiver android:name="com.huanhong.decathlonstb.event.BootBroadcastReceiver" >
+63-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:54:9-58:20
+63-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:54:19-87
+64            <intent-filter>
+64-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:55:13-57:29
+65                <action android:name="android.intent.action.BOOT_COMPLETED" />
+65-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:56:17-79
+65-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:56:25-76
+66            </intent-filter>
+67        </receiver>
+68
+69        <service android:name="com.huanhong.decathlonstb.service.ClientService" />
+69-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:60:9-58
+69-->C:\work\android-project\hh\DecathlonSTB\DecathlonSTB\app\src\main\AndroidManifest.xml:60:18-55
+70
+71        <provider
+71-->[com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:25:9-28:40
+72            android:name="com.readystatesoftware.chuck.internal.data.ChuckContentProvider"
+72-->[com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:26:13-91
+73            android:authorities="com.huanhong.decathlonstb.chuck.provider"
+73-->[com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:27:13-66
+74            android:exported="false" />
+74-->[com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:28:13-37
+75
+76        <activity
+76-->[com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:30:9-35:50
+77            android:name="com.readystatesoftware.chuck.internal.ui.MainActivity"
+77-->[com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:31:13-81
+78            android:label="@string/chuck_name"
+78-->[com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:32:13-47
+79            android:launchMode="singleTask"
+79-->[com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:33:13-44
+80            android:taskAffinity="com.readystatesoftware.chuck.task"
+80-->[com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:34:13-69
+81            android:theme="@style/Chuck.Theme" />
+81-->[com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:35:13-47
+82        <activity
+82-->[com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:36:9-39:50
+83            android:name="com.readystatesoftware.chuck.internal.ui.TransactionActivity"
+83-->[com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:37:13-88
+84            android:parentActivityName="com.readystatesoftware.chuck.internal.ui.MainActivity"
+84-->[com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:38:13-95
+85            android:theme="@style/Chuck.Theme" />
+85-->[com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:39:13-47
+86
+87        <service
+87-->[com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:41:9-43:40
+88            android:name="com.readystatesoftware.chuck.internal.support.ClearTransactionsService"
+88-->[com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:42:13-98
+89            android:exported="false" />
+89-->[com.readystatesoftware.chuck:library:1.0.4] C:\Users\12532\.gradle\caches\transforms-2\files-2.1\b33739de2fef71df395b571ce36d735a\library-1.0.4\AndroidManifest.xml:43:13-37
+90    </application>
+91
+92</manifest>

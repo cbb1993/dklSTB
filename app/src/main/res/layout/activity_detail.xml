@@ -1,0 +1,215 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:gravity="center">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#fff"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/main_click"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/main_title_margin_bottom"
+            android:src="@drawable/ur" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/vs" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/main_count_margin_left"
+                android:layout_marginTop="20dp"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="bottom"
+                    android:orientation="horizontal">
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <TextView
+                            android:id="@+id/year_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="-30dp"
+                            android:layout_marginLeft="30dp"
+                            android:text="@string/whole_year_ytd"
+                            android:textColor="#0070B3"
+                            android:textSize="@dimen/main_number_percenttext_size"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/years_percent"
+                            android:layout_width="@dimen/main_number_percent_width"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/year_text"
+                            android:gravity="right"
+                            android:text="00.0"
+                            android:textColor="#0070B3"
+                            android:textSize="@dimen/main_number_percent_size"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignBottom="@+id/years_percent"
+                            android:layout_marginBottom="15dp"
+                            android:layout_marginLeft="15dp"
+                            android:layout_toRightOf="@+id/years_percent"
+                            android:text="%"
+                            android:textColor="#000"
+                            android:textSize="75sp" />
+                    </RelativeLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="30dp"
+                        android:layout_marginLeft="70dp"
+                        android:gravity="right"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/whole_year_comments"
+                            android:textColor="#000"
+                            android:textSize="@dimen/main_number_counttext_size" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="YTD Nb of Evaluations"
+                            android:textColor="#000"
+                            android:textSize="@dimen/main_english_counttext_size" />
+
+                        <TextView
+                            android:id="@+id/years_count"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="0"
+                            android:textColor="#1AA8DC"
+                            android:textSize="@dimen/main_number_count_size" />
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="0.5dp"
+                            android:background="#000" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:gravity="bottom"
+                    android:orientation="horizontal">
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                        <TextView
+                            android:id="@+id/day_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="-30dp"
+                            android:layout_marginLeft="30dp"
+                            android:text="@string/today_ytd"
+                            android:textColor="#0070B3"
+                            android:textSize="@dimen/main_number_percenttext_size"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/days_percent"
+                            android:layout_width="@dimen/main_number_percent_width"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/day_text"
+                            android:gravity="right"
+                            android:text="00.0"
+                            android:textColor="#0070B3"
+                            android:textSize="@dimen/main_number_percent_size"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignBottom="@+id/days_percent"
+                            android:layout_marginBottom="15dp"
+                            android:layout_marginLeft="15dp"
+                            android:layout_toRightOf="@+id/days_percent"
+                            android:text="%"
+                            android:textColor="#000"
+                            android:textSize="75sp" />
+                    </RelativeLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="30dp"
+                        android:layout_marginLeft="70dp"
+                        android:gravity="right"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/today_comments"
+                            android:textColor="#000"
+                            android:textSize="@dimen/main_number_counttext_size" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Daily Nb of Evaluations"
+                            android:textColor="#000"
+                            android:textSize="@dimen/main_english_counttext_size" />
+
+                        <TextView
+                            android:id="@+id/days_count"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="0"
+                            android:textColor="#F05128"
+                            android:textSize="@dimen/main_number_count_size" />
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="0.5dp"
+                            android:background="#000" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/internet_error"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        android:text="@string/network_error"
+        android:textColor="#cf1515"
+        android:visibility="gone"
+        android:textSize="20sp" />
+
+</FrameLayout>

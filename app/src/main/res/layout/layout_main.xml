@@ -1,0 +1,367 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:gravity="center">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="5"
+            android:background="#fff"
+            android:clipChildren="false"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:paddingBottom="50dp">
+
+            <ImageView
+                android:id="@+id/main_click"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="-5dp"
+                android:layout_marginRight="-5dp"
+                android:adjustViewBounds="true"
+                android:src="@drawable/image2" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:clipChildren="false"
+                android:gravity="bottom"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/marginTop_percent"
+                    android:layout_weight="2"
+                    android:clipChildren="false"
+                    android:gravity="right|bottom"
+                    android:orientation="horizontal">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="10dp"
+                        android:gravity="right"
+                        android:orientation="vertical">
+
+                        <TextView
+                            style="@style/ytd_today"
+                            android:text="@string/whole_year_ytd" />
+
+                        <TextView
+                            style="@style/ytd_today_en"
+                            android:text="YTD" />
+
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/years_percent"
+                        style="@style/percent" />
+
+                    <TextView style="@style/percent_sign" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="15dp"
+                    android:layout_weight="0.7"
+                    android:gravity="right|bottom"
+                    android:orientation="vertical">
+
+                    <TextView
+                        style="@style/ytd_today"
+                        android:text="@string/whole_year_comments" />
+
+                    <TextView
+                        style="@style/ytd_today_en"
+                        android:text="YTD Nb \nof Evaluations" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.1"
+                    android:gravity="left|bottom">
+
+                    <TextView
+                        android:id="@+id/years_count"
+                        style="@style/tv_comment_amount"
+                        android:textColor="#00B65F" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="top"
+                android:clipChildren="false"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="@dimen/marginTop_percent"
+                    android:layout_weight="2"
+                    android:clipChildren="false"
+                    android:gravity="right|bottom"
+                    android:orientation="horizontal">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="10dp"
+                        android:gravity="right"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/today_ytd"
+                            android:textColor="#0070B3"
+                            android:textSize="@dimen/main_number_counttext_size"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="TODAY"
+                            android:textColor="#0070B3"
+                            android:textSize="@dimen/main_english_counttext_size"
+                            android:textStyle="bold" />
+
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/days_percent"
+                        style="@style/percent"
+                        android:text="00.0" />
+
+                    <TextView style="@style/percent_sign" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginRight="15dp"
+                    android:layout_weight="0.7"
+                    android:gravity="right|bottom"
+                    android:orientation="vertical">
+
+                    <TextView
+                        style="@style/ytd_today"
+                        android:text="@string/today_comments" />
+
+                    <TextView
+                        style="@style/ytd_today_en"
+                        android:text="Daily Nb \nof Evaluations" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1.1"
+                    android:gravity="left|bottom">
+
+                    <TextView
+                        android:id="@+id/days_count"
+                        style="@style/tv_comment_amount"
+                        android:textColor="#EA5D34" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="3dp"
+            android:layout_height="match_parent"
+            android:background="#0076C3" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="@dimen/margin_right_coment_layout"
+            android:layout_weight="3"
+            android:orientation="vertical"
+            android:padding="1dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:orientation="horizontal"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textColor="#fff"
+                    android:textSize="@dimen/size_comment_title" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/marginTop_comment_store"
+                android:orientation="horizontal"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp">
+
+                <ImageView
+                    style="@style/comment_weight_left"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:scaleType="center"
+                    android:src="@drawable/arrow" />
+
+                <ImageView
+                    style="@style/comment_weight_right"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:scaleType="center"
+                    android:src="@drawable/arrow" />
+            </LinearLayout>
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:focusable="false"
+                android:focusableInTouchMode="false">
+
+                <!-- 一定要固定高度，可以动态设置，否则一直onCreateViewHolder(导致OOM) -->
+                <com.huanhong.decathlonstb.custom.recycle.AutoRecyclerView
+                    android:id="@+id/rc_comment"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#fff"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="20dp"
+                    android:background="@drawable/gradient_white" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:clickable="true" />
+            </FrameLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:layout_weight="5" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/marginTop_comment_store"
+            android:layout_marginRight="-2dp"
+            android:layout_weight="3.25"
+            android:background="@drawable/sold_blue_stroke_white"
+            android:orientation="horizontal"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/size_comment_title"
+                android:visibility="invisible" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:layout_weight="5" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/marginTop_comment_store"
+            android:layout_marginRight="@dimen/margin_right_coment_layout"
+            android:layout_weight="3"
+            android:orientation="horizontal"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp">
+
+            <TextView
+                style="@style/comment_weight_left"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="用户评分"
+                android:textColor="#fff"
+                android:textSize="@dimen/size_comment_title"
+                android:textStyle="bold" />
+
+            <TextView
+                style="@style/comment_weight_right"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="评论和回复"
+                android:textColor="#fff"
+                android:textSize="@dimen/size_comment_title"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/internet_error"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        android:text="@string/network_error"
+        android:textColor="#cf1515"
+        android:textSize="20sp"
+        android:visibility="gone" />
+
+</RelativeLayout>

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\work\\android-project\\hh\\DecathlonSTB\\DecathlonSTB\\app\\build\\intermediates\\incremental\\mergeNormalReleaseResources\\merged.dir\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\12532\\.gradle\\caches\\transforms-2\\files-2.1\\bd472be5da47a654452b5ec77f5dc0ed\\appcompat-v7-25.1.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

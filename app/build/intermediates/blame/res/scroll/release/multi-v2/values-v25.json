@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\work\\android-project\\hh\\DecathlonSTB\\DecathlonSTB\\app\\build\\intermediates\\incremental\\mergeScrollReleaseResources\\merged.dir\\values-v25\\values-v25.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\12532\\.gradle\\caches\\transforms-2\\files-2.1\\bd472be5da47a654452b5ec77f5dc0ed\\appcompat-v7-25.1.1\\res\\values-v25\\values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}

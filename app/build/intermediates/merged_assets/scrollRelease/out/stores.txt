@@ -1,0 +1,886 @@
+[
+    {
+        "zone_code": "E",
+        "zone": "东区",
+        "city": [
+            {
+                "city_id": 18,
+                "shop": [
+                    {
+                        "shop_no": 804,
+                        "shop_name": "张公山（Zhanggongshan）"
+                    }
+                ],
+                "city_name": "蚌埠"
+            },
+            {
+                "city_id": 19,
+                "shop": [
+                    {
+                        "shop_no": 904,
+                        "shop_name": "北仑（Beilun）"
+                    }
+                ],
+                "city_name": "北仑"
+            },
+            {
+                "city_id": 20,
+                "shop": [
+                    {
+                        "shop_no": 873,
+                        "shop_name": "武进店（Wujing）"
+                    }
+                ],
+                "city_name": "常州"
+            },
+            {
+                "city_id": 21,
+                "shop": [
+                    {
+                        "shop_no": 971,
+                        "shop_name": "东营店(Dongyin)"
+                    }
+                ],
+                "city_name": "东营"
+            },
+            {
+                "city_id": 22,
+                "shop": [
+                    {
+                        "shop_no": 421,
+                        "shop_name": "大关店（Daguan）"
+                    },
+                    {
+                        "shop_no": 807,
+                        "shop_name": "西溪店（Xixi）"
+                    },
+                    {
+                        "shop_no": 860,
+                        "shop_name": "凤起店（Fengqi）"
+                    }
+                ],
+                "city_name": "杭州"
+            },
+            {
+                "city_id": 23,
+                "shop": [
+                    {
+                        "shop_no": 919,
+                        "shop_name": "合肥银泰店(Yintai)"
+                    },
+                    {
+                        "shop_no": 934,
+                        "shop_name": "合肥太湖路店(Taihulu)"
+                    }
+                ],
+                "city_name": "合肥"
+            },
+            {
+                "city_id": 24,
+                "shop": [
+                    {
+                        "shop_no": 909,
+                        "shop_name": "淮阴（Huaiyin）"
+                    }
+                ],
+                "city_name": "淮安"
+            },
+            {
+                "city_id": 25,
+                "shop": [
+                    {
+                        "shop_no": 925,
+                        "shop_name": "领秀城(Lingxiucheng)"
+                    }
+                ],
+                "city_name": "济南"
+            },
+            {
+                "city_id": 26,
+                "shop": [
+                    {
+                        "shop_no": 669,
+                        "shop_name": "洪兴店（Hongxing）"
+                    }
+                ],
+                "city_name": "嘉兴"
+            },
+            {
+                "city_id": 27,
+                "shop": [
+                    {
+                        "shop_no": 786,
+                        "shop_name": "澄江店(Chengjiang)"
+                    }
+                ],
+                "city_name": "江阴"
+            },
+            {
+                "city_id": 28,
+                "shop": [
+                    {
+                        "shop_no": 800,
+                        "shop_name": "花桥店（Huaqiao）"
+                    }
+                ],
+                "city_name": "昆山"
+            },
+            {
+                "city_id": 29,
+                "shop": [
+                    {
+                        "shop_no": 420,
+                        "shop_name": "雨花店（Yuhua）"
+                    },
+                    {
+                        "shop_no": 842,
+                        "shop_name": "应天店（Yingtian）"
+                    },
+                    {
+                        "shop_no": 999,
+                        "shop_name": "鼓楼店(Gulou)"
+                    }
+                ],
+                "city_name": "南京"
+            },
+            {
+                "city_id": 30,
+                "shop": [
+                    {
+                        "shop_no": 901,
+                        "shop_name": "港闸店（Gangzha）"
+                    }
+                ],
+                "city_name": "南通"
+            },
+            {
+                "city_id": 31,
+                "shop": [
+                    {
+                        "shop_no": 689,
+                        "shop_name": "潘火店 (Panhuo)"
+                    },
+                    {
+                        "shop_no": 948,
+                        "shop_name": "新星(Xinxing)"
+                    }
+                ],
+                "city_name": "宁波"
+            },
+            {
+                "city_id": 34,
+                "shop": [
+                    {
+                        "shop_no": 788,
+                        "shop_name": "江川店 （Jiangchuan）"
+                    },
+                    {
+                        "shop_no": 855,
+                        "shop_name": "宝山店（上海）"
+                    },
+                    {
+                        "shop_no": 888,
+                        "shop_name": "五角场（Wujiaochang）"
+                    },
+                    {
+                        "shop_no": 918,
+                        "shop_name": "世博源（Shiboyuan）"
+                    },
+                    {
+                        "shop_no": 388,
+                        "shop_name": "花木店（Huamu）"
+                    },
+                    {
+                        "shop_no": 389,
+                        "shop_name": "长宁店（Changning）"
+                    },
+                    {
+                        "shop_no": 390,
+                        "shop_name": "金桥店（Jinqiao）"
+                    },
+                    {
+                        "shop_no": 391,
+                        "shop_name": "莘庄店（Xinzhuang）"
+                    },
+                    {
+                        "shop_no": 418,
+                        "shop_name": "武宁店（Wuning）"
+                    },
+                    {
+                        "shop_no": 489,
+                        "shop_name": "徐泾（Xujing）"
+                    },
+                    {
+                        "shop_no": 685,
+                        "shop_name": "顾戴店（Gudai）"
+                    },
+                    {
+                        "shop_no": 688,
+                        "shop_name": "共和新路 （Gonghexin）"
+                    },
+                    {
+                        "shop_no": 758,
+                        "shop_name": "金山店（Jinshan）"
+                    },
+                    {
+                        "shop_no": 781,
+                        "shop_name": "七宝店 （Qibao）"
+                    },
+                    {
+                        "shop_no": 803,
+                        "shop_name": "大连路店（Dalianlu）"
+                    },
+                    {
+                        "shop_no": 850,
+                        "shop_name": "曹杨店（Caoyang）"
+                    },
+                    {
+                        "shop_no": 851,
+                        "shop_name": "大华店（Dahua）"
+                    },
+                    {
+                        "shop_no": 857,
+                        "shop_name": "澄浏店（Chengliu）"
+                    }
+                ],
+                "city_name": "上海"
+            },
+            {
+                "city_id": 35,
+                "shop": [
+                    {
+                        "shop_no": 559,
+                        "shop_name": "园区(Yuanqu）"
+                    },
+                    {
+                        "shop_no": 560,
+                        "shop_name": "水上乐园（Shuishangleyuan）"
+                    },
+                    {
+                        "shop_no": 783,
+                        "shop_name": "星塘店(Xingtang)"
+                    },
+                    {
+                        "shop_no": 784,
+                        "shop_name": "桐泾店（Tongjing）"
+                    }
+                ],
+                "city_name": "苏州"
+            },
+            {
+                "city_id": 36,
+                "shop": [
+                    {
+                        "shop_no": 962,
+                        "shop_name": "文化路(Wenhualu)"
+                    }
+                ],
+                "city_name": "威海"
+            },
+            {
+                "city_id": 37,
+                "shop": [
+                    {
+                        "shop_no": 419,
+                        "shop_name": "锡山店（Xishan）"
+                    },
+                    {
+                        "shop_no": 686,
+                        "shop_name": "滨湖（Binhu）"
+                    },
+                    {
+                        "shop_no": 908,
+                        "shop_name": "清扬（Qingyang）"
+                    },
+                    {
+                        "shop_no": 927,
+                        "shop_name": "惠山(Huishan)"
+                    },
+                    {
+                        "shop_no": 973,
+                        "shop_name": "无锡观山店（Guanshan）"
+                    }
+                ],
+                "city_name": "无锡"
+            },
+            {
+                "city_id": 38,
+                "shop": [
+                    {
+                        "shop_no": 835,
+                        "shop_name": "九华南路（Jiuhuananlu）"
+                    }
+                ],
+                "city_name": "芜湖"
+            },
+            {
+                "city_id": 40,
+                "shop": [
+                    {
+                        "shop_no": 966,
+                        "shop_name": "金龙湖店(Jinlonghu)"
+                    }
+                ],
+                "city_name": "徐州"
+            },
+            {
+                "city_id": 41,
+                "shop": [
+                    {
+                        "shop_no": 924,
+                        "shop_name": "烟台店(Yantai)"
+                    }
+                ],
+                "city_name": "烟台"
+            },
+            {
+                "city_id": 42,
+                "shop": [
+                    {
+                        "shop_no": 920,
+                        "shop_name": "盐城店(Yancheng)"
+                    }
+                ],
+                "city_name": "盐城"
+            },
+            {
+                "city_id": 43,
+                "shop": [
+                    {
+                        "shop_no": 970,
+                        "shop_name": "暨阳湖（Jiyanghu）"
+                    }
+                ],
+                "city_name": "张家港"
+            },
+            {
+                "city_id": 44,
+                "shop": [
+                    {
+                        "shop_no": 861,
+                        "shop_name": "南山店（Nanshan）"
+                    }
+                ],
+                "city_name": "镇江"
+            },
+            {
+                "city_id": 45,
+                "shop": [
+                    {
+                        "shop_no": 916,
+                        "shop_name": "诸暨（Zhuji）"
+                    }
+                ],
+                "city_name": "诸暨"
+            },
+            {
+                "city_id": 46,
+                "shop": [
+                    {
+                        "shop_no": 921,
+                        "shop_name": "鲁泰大道(Lutaidadao)"
+                    }
+                ],
+                "city_name": "淄博"
+            }
+        ]
+    },
+    {
+        "zone_code": "S",
+        "zone": "南区",
+        "city": [
+            {
+                "city_id": 33,
+                "shop": [
+                    {
+                        "shop_no": 856,
+                        "shop_name": "五缘湾店（Wuyuanwan）"
+                    }
+                ],
+                "city_name": "厦门"
+            },
+            {
+                "city_id": 47,
+                "shop": [
+                    {
+                        "shop_no": 942,
+                        "shop_name": "季华（Jihua）"
+                    },
+                    {
+                        "shop_no": 682,
+                        "shop_name": "顺峰山（Shunfengshan）"
+                    },
+                    {
+                        "shop_no": 708,
+                        "shop_name": "千灯湖(Qiandenghu)"
+                    }
+                ],
+                "city_name": "佛山"
+            },
+            {
+                "city_id": 48,
+                "shop": [
+                    {
+                        "shop_no": 912,
+                        "shop_name": "猎德（Liede）"
+                    },
+                    {
+                        "shop_no": 392,
+                        "shop_name": "东圃店（Dongpu）"
+                    },
+                    {
+                        "shop_no": 593,
+                        "shop_name": "洛溪店（Luoxi）"
+                    },
+                    {
+                        "shop_no": 792,
+                        "shop_name": "桥南店（Qiaonan）"
+                    }
+                ],
+                "city_name": "广州"
+            },
+            {
+                "city_id": 49,
+                "shop": [
+                    {
+                        "shop_no": 994,
+                        "shop_name": "桂林穿山店(Chuanshan)"
+                    }
+                ],
+                "city_name": "桂林"
+            },
+            {
+                "city_id": 50,
+                "shop": [
+                    {
+                        "shop_no": 959,
+                        "shop_name": "河源店（Heyuan)"
+                    }
+                ],
+                "city_name": "河源"
+            },
+            {
+                "city_id": 51,
+                "shop": [
+                    {
+                        "shop_no": 923,
+                        "shop_name": "华侨城店（Huaqiaocheng）"
+                    }
+                ],
+                "city_name": "江门"
+            },
+            {
+                "city_id": 52,
+                "shop": [
+                    {
+                        "shop_no": 907,
+                        "shop_name": "龙平（Longping）"
+                    },
+                    {
+                        "shop_no": 955,
+                        "shop_name": "梅龙（Meilong）"
+                    },
+                    {
+                        "shop_no": 416,
+                        "shop_name": "蛇口店（Shekou）"
+                    },
+                    {
+                        "shop_no": 491,
+                        "shop_name": "沙河（Shahe）"
+                    }
+                ],
+                "city_name": "深圳"
+            },
+            {
+                "city_id": 53,
+                "shop": [
+                    {
+                        "shop_no": 913,
+                        "shop_name": "岳麓（Yuelu）"
+                    }
+                ],
+                "city_name": "长沙"
+            },
+            {
+                "city_id": 54,
+                "shop": [
+                    {
+                        "shop_no": 930,
+                        "shop_name": "翠景（Cuijing）"
+                    },
+                    {
+                        "shop_no": 950,
+                        "shop_name": "博爱(Boai)"
+                    }
+                ],
+                "city_name": "中山"
+            },
+            {
+                "city_id": 55,
+                "shop": [
+                    {
+                        "shop_no": 967,
+                        "shop_name": "花湖店(Huahu)"
+                    }
+                ],
+                "city_name": "黄石"
+            },
+            {
+                "city_id": 57,
+                "shop": [
+                    {
+                        "shop_no": 922,
+                        "shop_name": "金开店(Jinkai)"
+                    },
+                    {
+                        "shop_no": 972,
+                        "shop_name": "袁家岗(Yuanjiagang)"
+                    }
+                ],
+                "city_name": "重庆"
+            },
+            {
+                "city_id": 58,
+                "shop": [
+                    {
+                        "shop_no": 780,
+                        "shop_name": "鸿福店 (Hongfu)"
+                    }
+                ],
+                "city_name": "东莞"
+            },
+            {
+                "city_id": 60,
+                "shop": [
+                    {
+                        "shop_no": 858,
+                        "shop_name": "遵义路店（Zunyilu）"
+                    }
+                ],
+                "city_name": "贵阳"
+            }
+        ]
+    },
+    {
+        "zone_code": "W",
+        "zone": "西区",
+        "city": [
+            {
+                "city_id": 39,
+                "shop": [
+                    {
+                        "shop_no": 915,
+                        "shop_name": "随州店（Suizhou）"
+                    },
+                    {
+                        "shop_no": 963,
+                        "shop_name": "古田店(Gutian)"
+                    },
+                    {
+                        "shop_no": 805,
+                        "shop_name": "后湖店（Houhu）"
+                    }
+                ],
+                "city_name": "武汉"
+            },
+            {
+                "city_id": 56,
+                "shop": [
+                    {
+                        "shop_no": 960,
+                        "shop_name": "郫县(Pixian)"
+                    }
+                ],
+                "city_name": "郫县"
+            },
+            {
+                "city_id": 59,
+                "shop": [
+                    {
+                        "shop_no": 488,
+                        "shop_name": "天府（Tianfu）"
+                    },
+                    {
+                        "shop_no": 665,
+                        "shop_name": "西华店（Xihua）"
+                    }
+                ],
+                "city_name": "成都"
+            }
+        ]
+    },
+    {
+        "zone_code": "N",
+        "zone": "北区",
+        "city": [
+            {
+                "city_id": 1,
+                "shop": [
+                    {
+                        "shop_no": 422,
+                        "shop_name": "大郊亭（Dajiaoting）"
+                    },
+                    {
+                        "shop_no": 430,
+                        "shop_name": "亦庄店（Yizhuang）"
+                    },
+                    {
+                        "shop_no": 508,
+                        "shop_name": "龙德（Longde）"
+                    },
+                    {
+                        "shop_no": 558,
+                        "shop_name": "来广营（Laiguangying）"
+                    },
+                    {
+                        "shop_no": 589,
+                        "shop_name": "公益西（Gongyixi）"
+                    },
+                    {
+                        "shop_no": 789,
+                        "shop_name": "西三旗(Xisanqi)"
+                    },
+                    {
+                        "shop_no": 995,
+                        "shop_name": "土桥(Tuqiao)"
+                    },
+                    {
+                        "shop_no": 992,
+                        "shop_name": "西红门(Xihongmen)"
+                    }
+                ],
+                "city_name": "北京"
+            },
+            {
+                "city_id": 2,
+                "shop": [
+                    {
+                        "shop_no": 490,
+                        "shop_name": "香炉礁（Xianglujiao）"
+                    },
+                    {
+                        "shop_no": 562,
+                        "shop_name": "华南(Huanan)"
+                    },
+                    {
+                        "shop_no": 931,
+                        "shop_name": "红星海（Hongxinghai）"
+                    }
+                ],
+                "city_name": "大连"
+            },
+            {
+                "city_id": 3,
+                "shop": [
+                    {
+                        "shop_no": 687,
+                        "shop_name": "东中街店（Dongzhongjie）"
+                    },
+                    {
+                        "shop_no": 806,
+                        "shop_name": "丁香湖店（Dingxianghu）"
+                    },
+                    {
+                        "shop_no": 801,
+                        "shop_name": "沈阳建设西路店(Jianshexilu)"
+                    },
+                    {
+                        "shop_no": 822,
+                        "shop_name": "浑南大道（Shenyang）"
+                    },
+                    {
+                        "shop_no": 952,
+                        "shop_name": "长白岛 （Changbaidao）"
+                    }
+                ],
+                "city_name": "沈阳"
+            },
+            {
+                "city_id": 4,
+                "shop": [
+                    {
+                        "shop_no": 592,
+                        "shop_name": "赛德店（Saide）"
+                    },
+                    {
+                        "shop_no": 961,
+                        "shop_name": "红旗街(Hongqijie)"
+                    }
+                ],
+                "city_name": "长春"
+            },
+            {
+                "city_id": 5,
+                "shop": [
+                    {
+                        "shop_no": 986,
+                        "shop_name": "立山(Lishan)"
+                    }
+                ],
+                "city_name": "鞍山"
+            },
+            {
+                "city_id": 6,
+                "shop": [
+                    {
+                        "shop_no": 987,
+                        "shop_name": "博学大街店（Boxue）"
+                    }
+                ],
+                "city_name": "大庆"
+            },
+            {
+                "city_id": 7,
+                "shop": [
+                    {
+                        "shop_no": 985,
+                        "shop_name": "沈抚新城（Shenfuxincheng）"
+                    }
+                ],
+                "city_name": "抚顺"
+            },
+            {
+                "city_id": 8,
+                "shop": [
+                    {
+                        "shop_no": 917,
+                        "shop_name": "乐松（Lesong）"
+                    }
+                ],
+                "city_name": "哈尔滨"
+            },
+            {
+                "city_id": 9,
+                "shop": [
+                    {
+                        "shop_no": 990,
+                        "shop_name": "世纪广场(Shijiguangchang)"
+                    }
+                ],
+                "city_name": "吉林"
+            },
+            {
+                "city_id": 10,
+                "shop": [
+                    {
+                        "shop_no": 951,
+                        "shop_name": "爱民道(Aimindao)"
+                    },
+                    {
+                        "shop_no": 958,
+                        "shop_name": "燕顺 （Yanshunlu）"
+                    }
+                ],
+                "city_name": "廊坊"
+            },
+            {
+                "city_id": 11,
+                "shop": [
+                    {
+                        "shop_no": 914,
+                        "shop_name": "开元大道（Kaiyuandadao）"
+                    }
+                ],
+                "city_name": "洛阳"
+            },
+            {
+                "city_id": 12,
+                "shop": [
+                    {
+                        "shop_no": 965,
+                        "shop_name": "齐齐哈尔店(Qiqihaer)"
+                    }
+                ],
+                "city_name": "齐齐哈尔"
+            },
+            {
+                "city_id": 13,
+                "shop": [
+                    {
+                        "shop_no": 903,
+                        "shop_name": "槐安东路店(Huaiandonglu)"
+                    }
+                ],
+                "city_name": "石家庄"
+            },
+            {
+                "city_id": 14,
+                "shop": [
+                    {
+                        "shop_no": 561,
+                        "shop_name": "泰达(Taida)"
+                    },
+                    {
+                        "shop_no": 680,
+                        "shop_name": "津滨店（Jinbin）"
+                    },
+                    {
+                        "shop_no": 905,
+                        "shop_name": "西青道 （Xiqingdao）"
+                    },
+                    {
+                        "shop_no": 991,
+                        "shop_name": "黑牛城道（Heiniuchengdao）"
+                    }
+                ],
+                "city_name": "天津"
+            },
+            {
+                "city_id": 15,
+                "shop": [
+                    {
+                        "shop_no": 1018,
+                        "shop_name": "明光路(Mingguanglu)"
+                    },
+                    {
+                        "shop_no": 953,
+                        "shop_name": "辛家庙（Xinjiamiao）"
+                    },
+                    {
+                        "shop_no": 681,
+                        "shop_name": "南二环（Nanerhuan）"
+                    }
+                ],
+                "city_name": "西安"
+            },
+            {
+                "city_id": 16,
+                "shop": [
+                    {
+                        "shop_no": 902,
+                        "shop_name": "营口（Yingkou）"
+                    }
+                ],
+                "city_name": "营口"
+            },
+            {
+                "city_id": 17,
+                "shop": [
+                    {
+                        "shop_no": 910,
+                        "shop_name": "郑州 京广（Jingguang）"
+                    }
+                ],
+                "city_name": "郑州"
+            },
+            {
+                "city_id": 32,
+                "shop": [
+                    {
+                        "shop_no": 423,
+                        "shop_name": "辽阳店（Liaoyang）"
+                    },
+                    {
+                        "shop_no": 782,
+                        "shop_name": "丹山店(Danshan)"
+                    },
+                    {
+                        "shop_no": 859,
+                        "shop_name": "李沧店（Licang）"
+                    }
+                ],
+                "city_name": "青岛"
+            }
+        ]
+    }
+]

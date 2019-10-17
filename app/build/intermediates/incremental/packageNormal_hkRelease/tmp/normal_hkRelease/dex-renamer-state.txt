@@ -1,0 +1,4 @@
+#Thu Oct 17 13:33:06 CST 2019
+base.0=C\:\\work\\android-project\\hh\\DecathlonSTB\\DecathlonSTB\\app\\build\\intermediates\\dex\\normal_hkRelease\\mergeDexNormal_hkRelease\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

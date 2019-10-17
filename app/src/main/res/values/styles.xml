@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ytd_today">
+        <item name="android:textColor">#0070B3</item>
+        <item name="android:textSize">@dimen/main_number_counttext_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="ytd_today_en" parent="ytd_today">
+        <item name="android:gravity">right</item>
+        <item name="android:textSize">@dimen/main_english_counttext_size</item>
+    </style>
+
+    <style name="percent">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#0070B3</item>
+        <item name="android:textSize">@dimen/main_number_percent_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:text">00.0</item>
+        <item name="android:layout_marginBottom">@dimen/marginBottom_percent</item>
+    </style>
+
+    <style name="percent_sign">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#0070B3</item>
+        <item name="android:textSize">@dimen/size_percent_sign</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:text">%</item>
+        <item name="android:layout_marginBottom">@dimen/margin_bottom_percent_sign</item>
+    </style>
+
+    <style name="tv_comment_amount">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/main_number_count_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:text">0</item>
+        <item name="android:layout_marginBottom">@dimen/marginTop_comment_amout</item>
+    </style>
+
+    <style name="comment_weight_left">
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    <style name="comment_weight_right">
+        <item name="android:layout_weight">2.2</item>
+    </style>
+
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.huanhong.decathlonstb">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.SYSTEM_DIALOG_WINDOW" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+
+    <application
+        android:name=".AppAplicaiton"
+        android:allowBackup="true"
+        android:icon="@drawable/decathlon"
+        android:label="@string/app_name"
+        android:persistent="true"
+        android:theme="@android:style/Theme.Black.NoTitleBar">
+
+        <meta-data
+            android:name="VERSION_CHANNEL"
+            android:value="${VERSION_VALUE}" />
+        <meta-data
+            android:name="URL"
+            android:value="${URL}" />
+        <meta-data
+            android:name="SCROLL"
+            android:value="${SCROLL}" />
+        <!--兼容版本的channel,多个channel以&隔开-->
+        <meta-data
+            android:name="COMPATIBLE"
+            android:value="${COMPATIBLE}" />
+
+        <activity
+            android:name="com.huanhong.decathlonstb.MainActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.huanhong.decathlonstb.SetUpActivity"
+            android:screenOrientation="landscape" android:launchMode="singleTask" />
+        <activity android:name=".ErrorActivity" />
+
+        <receiver android:name="com.huanhong.decathlonstb.event.BootBroadcastReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name=".service.ClientService" />
+
+    </application>
+
+</manifest>

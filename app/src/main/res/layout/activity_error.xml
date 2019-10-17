@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:orientation="vertical"
+    android:padding="25dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="30dp"
+        android:text="版本冲突"
+        android:textColor="@color/chuck_status_error"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/error_history_version"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="历史版本："
+        android:textColor="@color/chuck_status_error"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/error_current_version"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="当前版本："
+        android:textColor="@color/chuck_status_error"
+        android:textSize="20sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="请重新覆盖安装兼容版本，本次安装不会造成数据丢失。如果确实需要使用当前版本请清空app数据重新配置使用。"
+        android:textColor="@color/chuck_status_error"
+        android:textSize="25sp" />
+
+</LinearLayout>
